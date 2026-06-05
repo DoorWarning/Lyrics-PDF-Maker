@@ -8,9 +8,11 @@
   font-weight: normal;
   font-style: normal;
   font-display: swap;
+}
 
-  font-family: 'SDMisaeng';
-  src: url('/fonts/SDMisaeng/SDMisaeng.ttf') format('truetype');
+@font-face {
+  font-family: 'SDMiSaeng';
+  src: url('/fonts/SDMiSaeng/SDMiSaeng.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;

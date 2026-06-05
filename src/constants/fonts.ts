@@ -17,10 +17,10 @@ export const FONT_OPTIONS: FontOption[] = [
     yOffset: 0.5,
   },
   {
-    id: 'SDMisaeng', // 영문 ID로 수정
+    id: 'SDMiSaeng',
     name: '미생체',
-    url: '/fonts/SDMisaeng/SDMisaeng.ttf',
-    family: 'SDMisaeng',
+    url: '/fonts/SDMiSaeng/SDMiSaeng.ttf', // 대소문자 정확히 수정
+    family: 'SDMiSaeng',
     size: 20,
     yOffset: 0.5,
   },
